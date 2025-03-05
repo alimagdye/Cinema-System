@@ -15,7 +15,7 @@ The **Cinema System** is a command-line application developed in Java that enabl
 1. Ensure you have **Java 11 or later** installed.
 2. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cinema-system.git
+   git clone https://github.com/alimagdye/cinema-system.git
    ```
 3. Navigate to the project directory:
    ```sh
